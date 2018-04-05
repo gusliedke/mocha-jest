@@ -30,7 +30,7 @@ class App extends Component {
     return (
       <div className="body">
         <header>
-          <h1>Mocha-Jest helper</h1>
+          <h1>Mocha-Jest helper Gustavo/test</h1>
           <Search
             filterText={this.state.filterText}
             filterUpdate={this.filterUpdate.bind(this)}
